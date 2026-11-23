@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am Mohd Saad! 👋
 
-<!--
-**akhlaqkhan8705/akhlaqkhan8705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BCA (AI & Data Science) Student at **K.R. Mangalam University**, Gurugram (Batch 2026-29)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Full-Stack Development
 
-Here are some ideas to get you started:
+## Technical Skills
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python |
+| Tools | Git, GitHub, Linux |
+| Scripting | Shell Scripting |
+| Other | Problem Solving |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [CSE103 Lab 3](https://github.com/akhlaqkhan8705/cse103-lab-LAB3) - Git and GitHub lab work
+- [CSE103 Lab 4](https://github.com/akhlaqkhan8705/cse103-lab-LAB4) - CSE103 lab work
+- [Developer Portfolio](https://github.com/akhlaqkhan8705/developer-portfolio) - Portfolio website (HTML)
+
+## Connect With Me
+- LinkedIn: [Mohd Saad](https://www.linkedin.com/in/mohd-saad-79287b451)
+- GitHub: [akhlaqkhan8705](https://github.com/akhlaqkhan8705)
