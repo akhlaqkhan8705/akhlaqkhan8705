@@ -20,4 +20,4 @@
 
 ## Connect With Me
 - LinkedIn: [Mohd Saad](https://www.linkedin.com/in/mohd-saad-79287b451)
-- GitHub: [akhlaqkhan8705](https://github.com/akhlaqkhan8705)
+- GitHub: [akhlaqkhan8705](https://github.com/Mohdsaad724206617)
