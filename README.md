@@ -19,5 +19,6 @@
 - [Developer Portfolio](https://github.com/akhlaqkhan8705/developer-portfolio) - Portfolio website (HTML)
 
 ## Connect With Me
+- Email: abushad7242066417@gmail.com
 - LinkedIn: [Mohd Saad](https://www.linkedin.com/in/mohd-saad-79287b451)
 - GitHub: [akhlaqkhan8705](https://github.com/Mohdsaad724206617)
